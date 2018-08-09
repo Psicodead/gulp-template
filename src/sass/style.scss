@@ -1,0 +1,20 @@
+$font-stack: Helvetica, sans-serif;
+$tittle-color: #fff;
+$mainfontsize: 13pt;
+$width:100%;
+
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font: 100% $font-stack;
+	font-size: 1px;
+	color: black;
+	margin: 0px;
+	padding: 0px;
+	a{
+		text-decoration: none;
+		color: black;
+	}
+}

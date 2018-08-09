@@ -1,0 +1,26 @@
+{
+  "name": "gulp-template",
+  "version": "1.0.0",
+  "description": "Basic gulp project template using pug and sass",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.15.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.3.0",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-pug": "^3.0.4",
+    "gulp-sass": "^2.3.2",
+    "pug": "^2.0.0-beta6",
+    "uniq": "^1.0.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "psicodead",
+  "license": "ISC"
+}
